@@ -19,26 +19,31 @@ export default function Resume() {
           </div>
         </div>
 
-        {/* Microsoft */}
-        <div className="col-md-6 mb-4">
-          <div className="card h-100 shadow-sm">
-            <div className="card-body">
-              <h5 className="card-title">Senior Conversation Designer</h5>
-              <h6 className="card-subtitle mb-3 text-muted">
-                Microsoft (via Nuance) <span className="fw-normal">2023 – 2025</span>
-              </h6>
-              <h6 className="fw-bold">Generative AI &amp; Copilot Studio Training</h6>
-              <ul className="mb-0">
-                <li>Trained design teams on Copilot Studio, including:
-                  <ul>
-                    <li>Using generative actions effectively</li>
-                    <li>Leveraging NLU for intent classification</li>
-                  </ul>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
+{/* Microsoft */}
+<div className="col-md-6 mb-4">
+  <div className="card h-100 shadow-sm">
+    <div className="card-body">
+      <h5 className="card-title">Senior Conversation Designer</h5>
+      <h6 className="card-subtitle mb-3 text-muted">
+        Microsoft (via Nuance) <span className="fw-normal">2023 – 2025</span>
+      </h6>
+
+      <ul className="mb-0">
+        <li>
+          Trained design teams on Copilot Studio, including:
+          <ul>
+            <li>Using generative actions effectively</li>
+            <li>Leveraging NLU for intent classification</li>
+          </ul>
+        </li>
+        <li>
+          Have been identified as a “key employee,” critical to Microsoft’s long‑term success
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+
 
         {/* Nuance Communications */}
         <div className="col-md-6 mb-4">
