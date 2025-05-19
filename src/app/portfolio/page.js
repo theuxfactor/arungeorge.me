@@ -1,3 +1,5 @@
+import Image from 'next/image';
+
 export default function Portfolio() {
   const companies = [
     {
@@ -30,12 +32,15 @@ export default function Portfolio() {
           <div key={company.name} className="col-md-4">
             <div className="card h-100 shadow-sm text-center">
               <div className="card-body d-flex flex-column">
-                <img
-                  src={company.logo}
-                  alt={`${company.name} logo`}
-                  className="mx-auto mb-3"
-                  style={{ maxHeight: '60px', objectFit: 'contain' }}
-                />
+                <div className="mx-auto mb-3" style={{ maxWidth: 120, position: 'relative', height: 60 }}>
+                  <Image
+                    src={company.logo}
+                    alt={`${company.name} logo`}
+                    layout="fill"
+                    objectFit="contain"
+                    priority
+                  />
+                </div>
                 <h5 className="card-title">{company.name}</h5>
                 <p className="card-text flex-grow-1">
                   Selected work at {company.name} is available upon request or during a private video call.

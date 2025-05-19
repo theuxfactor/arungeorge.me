@@ -11,7 +11,7 @@ export default function HomePage() {
       <h1 className="display-6">
         I design meaningful conversational experiences that connect humans and AI in natural, intuitive ways.
         </h1> <br />
-<h1 className="display-6">      I'm currently exploring the shift from intent-based systems to embedding-driven models, along with researching Neural AI Interfaces such as Brain-Computer Interfaces (BCIs).</h1>      
+<h1 className="display-6">      I&apos;m currently exploring the shift from intent-based systems to embedding-driven models, along with researching Neural AI Interfaces such as Brain-Computer Interfaces (BCIs).</h1>      
 
       <div style={{ marginTop: '6rem' }} />
 
