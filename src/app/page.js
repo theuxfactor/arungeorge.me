@@ -7,7 +7,7 @@ export default function HomePage() {
     <>
       <div style={{ marginTop: '6rem' }} />
 
-      <h1>[Who, is, Arun?]</h1>
+      <h1>I am Arun George.</h1>
       <h1 className="display-6">
         I design meaningful conversational experiences that connect humans and AI in natural, intuitive ways.
         </h1> <br />
