@@ -34,11 +34,11 @@ export default function Portfolio() {
               <div className="card-body d-flex flex-column">
                 <div className="mx-auto mb-3" style={{ maxWidth: 120, position: 'relative', height: 60 }}>
                   <Image
-                    src={company.logo}
-                    alt={`${company.name} logo`}
-                    layout="fill"
-                    objectFit="contain"
-                    priority
+                   src={company.logo}
+                  alt={`${company.name} logo`}
+                  fill
+                  style={{ objectFit: 'contain' }}
+                  priority
                   />
                 </div>
                 <h5 className="card-title">{company.name}</h5>
