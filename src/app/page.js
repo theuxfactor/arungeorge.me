@@ -13,7 +13,7 @@ export default function HomePage() {
         </h1> <br />
 <h1 className="display-6">      I&apos;m currently exploring the shift from intent-based systems to embedding-driven models, along with researching Neural AI Interfaces such as Brain-Computer Interfaces (BCIs).</h1>      
 
-      <div style={{ marginTop: '6rem' }} />
+      <div style={{ marginTop: '4rem' }} />
 
       {/* Buttons */}
    <div className="mt-3">
