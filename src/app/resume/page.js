@@ -33,7 +33,7 @@ export default function Resume() {
           Trained design teams on Copilot Studio, including:
           <ul>
             <li>Using generative actions effectively</li>
-            <li>Leveraging NLU for intent classification</li>
+            <li>Leveraging LLM models for intent classification</li>
           </ul>
         </li>
         <li>
