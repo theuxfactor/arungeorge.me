@@ -20,6 +20,8 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head />
       <title>Arun George | AI Design</title>
+   
+    <link rel="icon" type="image/x-icon" href="https://github.com/theuxfactor/arungeorge.me/blob/main/public/favicon.ico">
       <body>
 
        <div className="container"> {children}</div>
