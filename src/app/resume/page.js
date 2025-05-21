@@ -13,6 +13,7 @@ export default function Resume() {
           Download Resume
         </a>
       </div>
+           <br />
 
       <div className="row">
         {/* HCLTech */}
