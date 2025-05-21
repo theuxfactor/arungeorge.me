@@ -11,7 +11,7 @@ export default function HomePage() {
       <h1 className="display-6">
         I design meaningful conversational experiences that connect humans and AI in natural, intuitive ways.
         </h1> <br />
-  <h1 className="display-6">I&apos;ve worked with Fortune 100 companies to build AI-driven chatbots and voice applications at Nuance, Microsoft, and HCLTech.</h1> <br />
+  <h1 className="display-6">I&apos;ve worked with Fortune 100 companies to build AI-driven chatbots and voice apps @ Nuance, Microsoft, and HCLTech.</h1> <br />
 <h1 className="display-6">      I&apos;m currently exploring the shift from intent‑based designs to vector‑based semantic retrieval—leveraging high‑dimensional embedding vectors, along with researching Neural AI Interfaces such as Brain-Computer Interfaces (BCIs).</h1>      
 
       <div style={{ marginTop: '4rem' }} />
