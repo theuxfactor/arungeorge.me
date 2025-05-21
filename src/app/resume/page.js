@@ -2,6 +2,17 @@ export default function Resume() {
   return (
     <section className="container my-5">
       <h2 className="mb-4">Experience</h2>
+  
+          {/* Download Resume Button */}
+      <div className="text-center mt-4">
+        <a
+          href="https://iz6nfzsevxdwxfxk.public.blob.vercel-storage.com/AI%20Conversation%20Design%20-%20ArunG_v3-94QejKHvetfWmnzDcuEXmxplx8k9dv.pdf"
+          className="btn btn-outline-primary mt-3"
+          download
+        >
+          Download Resume
+        </a>
+      </div>
 
       <div className="row">
         {/* HCLTech */}
@@ -111,17 +122,6 @@ export default function Resume() {
             </div>
           </div>
         </div>
-      </div>
-
-      {/* Download Resume Button */}
-      <div className="text-center mt-4">
-        <a
-          href="https://iz6nfzsevxdwxfxk.public.blob.vercel-storage.com/AI%20Conversation%20Design%20-%20ArunG_v3-94QejKHvetfWmnzDcuEXmxplx8k9dv.pdf"
-          className="btn btn-outline-primary mt-3"
-          download
-        >
-          Download Resume
-        </a>
       </div>
     </section>
   );
