@@ -9,7 +9,7 @@ export default function HomePage() {
 
       <h1>I am Arun George.</h1>
        <p className="fs-2 fw-normal">
-        I design and architect conversational experiences that connect humans and AI in natural, intuitive ways.
+       I design and architect conversational experiences that seamlessly connect humans and AI in natural, intuitive ways by leveraging language and technology.
         </p> <br />
   <p className="fs-2 fw-normal">I&apos;ve worked with Fortune 100 companies to build AI-driven chatbots and voice apps @ Nuance, Microsoft, and HCLTech.</p> <br />
   <p className="fs-2 fw-normal"> I&apos;m currently exploring the shift from intent‑based designs to contextually aware semantic search, along with researching Neural AI Interfaces such as Brain-Computer Interfaces (BCIs).</p>      
