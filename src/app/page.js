@@ -5,16 +5,16 @@ import Portfolio from "./portfolio/page";
 export default function HomePage() {
   return (
     <>
-      <div style={{ marginTop: '6rem' }} />
+     <div style={{ marginTop: '8rem', fontSize: '0.79em' }} />
 
       <h1>I am Arun George.</h1>
-      <h1 className="display-6">
+       <p className="fs-2 fw-normal">
         I design meaningful conversational experiences that connect humans and AI in natural, intuitive ways.
-        </h1> <br />
-  <h1 className="display-6">I&apos;ve worked with Fortune 100 companies to build AI-driven chatbots and voice apps @ Nuance, Microsoft, and HCLTech.</h1> <br />
-<h1 className="display-6">      I&apos;m currently exploring the shift from intent‑based designs to contextually aware semantic search, along with researching Neural AI Interfaces such as Brain-Computer Interfaces (BCIs).</h1>      
+        </p> <br />
+  <p className="fs-2 fw-normal">I&apos;ve worked with Fortune 100 companies to build AI-driven chatbots and voice apps @ Nuance, Microsoft, and HCLTech.</p> <br />
+  <p className="fs-2 fw-normal"> I&apos;m currently exploring the shift from intent‑based designs to contextually aware semantic search, along with researching Neural AI Interfaces such as Brain-Computer Interfaces (BCIs).</p>      
 
-      <div style={{ marginTop: '4rem' }} />
+     
 
       {/* Buttons */}
    <div className="mt-3">
