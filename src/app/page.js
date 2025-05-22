@@ -5,7 +5,7 @@ import Portfolio from "./portfolio/page";
 export default function HomePage() {
   return (
     <>
-     <div style={{ marginTop: '8rem', fontSize: '0.79em' }} />
+     <div style={{ marginTop: '6rem', fontSize: '0.79em' }} />
 
       <h1>I am Arun George.</h1>
        <p className="fs-2 fw-normal">
