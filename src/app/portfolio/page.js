@@ -43,7 +43,7 @@ export default function Portfolio() {
                 </div>
                 <h5 className="card-title">{company.name}</h5>
                 <p className="card-text flex-grow-1">
-                  Selected work at {company.name} is available upon request or during a private video call.
+                  Worked and delivered AI Chatbots - NLU based, LLM based. Clients: Fortune 100
                 </p>
               </div>
             </div>
