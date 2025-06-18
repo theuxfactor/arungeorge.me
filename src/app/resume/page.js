@@ -6,7 +6,7 @@ export default function Resume() {
           {/* Download Resume Button */}
       <div className="text-center mt-4">
         <a
-          href="https://iz6nfzsevxdwxfxk.public.blob.vercel-storage.com/AI%20Conversation%20Design%20-%20ArunG_v3-94QejKHvetfWmnzDcuEXmxplx8k9dv.pdf"
+          href="https://iz6nfzsevxdwxfxk.public.blob.vercel-storage.com/Arun%20George_Conversation_Designer_Architect-IeR39IZNXLTdnyatgv8dqFD8Nj847Q.pdf"
           className="btn btn-outline-primary mt-3"
           download
         >
@@ -15,115 +15,119 @@ export default function Resume() {
       </div>
            <br />
 
-      <div className="row">
-        {/* HCLTech */}
-        <div className="col-md-6 mb-4">
-          <div className="card h-100 shadow-sm">
-            <div className="card-body">
-              <h5 className="card-title">Senior Conversation Designer</h5>
-              <h6 className="card-subtitle mb-3 text-muted">
-                HCLTech <span className="fw-normal">2025 – Present</span>
-              </h6>
-              <ul className="list-unstyled mb-0">
-                <li>Assigned to a high‑visibility project to design an internal AI bot using generative AI with Microsoft’s Copilot Studio.</li>
-              </ul>
-            </div>
-          </div>
-        </div>
+   <div className="row">
+  {/* HCLTech */}
+  <div className="col-md-6 mb-4">
+    <div className="card h-100 shadow-sm">
+      <div className="card-body">
+        <h5 className="card-title">Senior Conversation Designer</h5>
+        <h6 className="card-subtitle mb-3 text-muted">
+          HCLTech <span className="fw-normal">January 2025 – Present | Remote</span>
+        </h6>
+        <ul className="mb-0">
+          <li>Architecting enterprise-wide AI assistant using Microsoft Copilot Studio and Nuance Mix Conversation Platform</li>
+          <li>Leading cross-functional teams in multiple time zones to deliver conversational AI solutions</li>
+          <li>Implementing generative AI capabilities for dynamic response generation and context-aware interactions</li>
+          <li>Establishing conversation design standards and best practices for global implementation</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 
-{/* Microsoft */}
-<div className="col-md-6 mb-4">
-  <div className="card h-100 shadow-sm">
-    <div className="card-body">
-      <h5 className="card-title">Senior Conversation Designer</h5>
-      <h6 className="card-subtitle mb-3 text-muted">
-        Microsoft (via Nuance) <span className="fw-normal">2023 – 2025</span>
-      </h6>
+  {/* Microsoft */}
+  <div className="col-md-6 mb-4">
+    <div className="card h-100 shadow-sm">
+      <div className="card-body">
+        <h5 className="card-title">Senior Conversation Designer</h5>
+        <h6 className="card-subtitle mb-3 text-muted">
+          Microsoft <span className="fw-normal">May 2023 – January 2025 | Remote (via Nuance)</span>
+        </h6>
+        <ul className="mb-0">
+          <li>Trained 50+ designers across multiple time zones on Copilot Studio implementation, resulting in faster onboarding and project delivery</li>
+          <li>Developed comprehensive training curriculum covering generative actions, NLU optimization, and intent classification</li>
+          <li>Collaborated with product team to improve platform features</li>
+          <li>Recruited to work on an internal innovation hub to help with AI Agentic future</li>
+        </ul>
+      </div>
+    </div>
+  </div>
 
-      <ul className="mb-0">
-        <li>
-          Trained design teams on Copilot Studio, including:
-          <ul>
-            <li>Using generative actions effectively</li>
-            <li>Leveraging LLM models for intent classification</li>
-          </ul>
-        </li>
-        <li>
-          Have been identified as a “key employee,” critical to Microsoft’s long‑term success
-        </li>
-      </ul>
+  {/* Nuance Communications */}
+  <div className="col-md-6 mb-4">
+    <div className="card h-100 shadow-sm">
+      <div className="card-body">
+        <h5 className="card-title">Principal Conversation Designer</h5>
+        <h6 className="card-subtitle mb-3 text-muted">
+          Nuance Communications <span className="fw-normal">March 2018 – May 2023 | Remote</span>
+        </h6>
+
+        <h6 className="fw-bold">Telecom Industry Impact</h6>
+        <ul className="mb-0">
+          <li>Redesigned conversation flows for Fortune 100 telecommunications client, achieving:
+            <ul className="ms-3">
+              <li>21% reduction in incomprehension rates (47% → 37%)</li>
+              <li>24% decrease in live chat escalations (11.2% → 8.5%)</li>
+            </ul>
+          </li>
+        </ul>
+
+        <h6 className="fw-bold mt-3">Platform Innovation</h6>
+        <ul>
+          <li>Developed automated design tool using .NET framework, improving team efficiency – what used to take 10–15 minutes now can be done within seconds</li>
+        </ul>
+
+        <h6 className="fw-bold mt-3">Strategic Leadership</h6>
+        <ul>
+          <li>Led 100+ intent discovery workshops for Fortune 500 clients across telecommunications, finance, and utilities sectors</li>
+        </ul>
+
+        <h6 className="fw-bold mt-3">Enterprise Implementation</h6>
+        <ul>
+          <li>Owned end-to-end dialog strategy for accounts with millions of chat sessions per month</li>
+        </ul>
+
+        <h6 className="fw-bold mt-3">Knowledge Transfer</h6>
+        <ul className="mb-0">
+          <li>Conducted training sessions and office hours on Mix platform for internal teams and enterprise clients</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  {/* VoxGen + Founder */}
+  <div className="col-md-6 mb-4">
+    {/* VoxGen Card */}
+    <div className="card shadow-sm mb-4">
+      <div className="card-body pb-0">
+        <h5 className="card-title">Voice UX Consultant</h5>
+        <h6 className="card-subtitle mb-3 text-muted">
+          VoxGen <span className="fw-normal">June 2015 – March 2018 | Remote</span>
+        </h6>
+        <ul className="mb-0">
+          <li>Helped secure $2M contract with a major US retail pharmacy by leading all design needs</li>
+          <li>Conducted 50+ usability testing sessions, improving task completion rates by 30%</li>
+          <li>Partnered with engineering teams across US and UK to ensure on-time delivery</li>
+          <li>Led script translation and localization for 3 languages</li>
+        </ul>
+      </div>
+    </div>
+
+    {/* Founder Card */}
+    <div className="card shadow-sm">
+      <div className="card-body">
+        <h5 className="card-title">Founder</h5>
+        <h6 className="card-subtitle mb-3 text-muted">
+          CGRNet (Computer Games’ Reviews Network) <span className="fw-normal">2000 – 2004</span>
+        </h6>
+        <ul className="mb-0">
+          <li>Built and scaled gaming review platform to hundreds of monthly active users (pre‑YouTube era)</li>
+          <li>Developed content strategy and community engagement protocols</li>
+          <li>Managed a small team of remote contributors across multiple time zones</li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
 
-
-        {/* Nuance Communications */}
-        <div className="col-md-6 mb-4">
-          <div className="card h-100 shadow-sm">
-            <div className="card-body">
-              <h5 className="card-title">Principal Conversation Designer</h5>
-              <h6 className="card-subtitle mb-3 text-muted">
-                Nuance Communications <span className="fw-normal">2018 – 2023</span>
-              </h6>
-
-              <h6 className="fw-bold">Conversational AI Strategy &amp; Consulting</h6>
-              <ul className="mb-0">
-                <li>Senior Consultant for Fortune 100 brands</li>
-                <li>Improved bot strategy for a major telecommunications company, reducing:
-                  <ul className="ms-3">
-                    <li>Incomprehension (No Match) rate from 47% → 37%</li>
-                    <li>Live Chat Requests from 11.2% → 8.5%</li>
-                  </ul>
-                </li>
-              </ul>
-
-              <h6 className="fw-bold mt-3">Process &amp; Efficiency Improvements</h6>
-              <ul>
-                <li>Developed an internal software tool using Microsoft’s .NET framework to enhance design processes</li>
-                <li>Led intent discovery & content workshops across various industries (telecommunications, finance, utilities)</li>
-                <li>Owned implementation of key dialog elements, including business intents, incomprehension handling, and dialog strategy</li>
-              </ul>
-
-              <h6 className="fw-bold mt-3">Training &amp; Enablement</h6>
-              <ul className="mb-0">
-                <li>Conducted training sessions for internal teams and external clients on Nuance’s Conversational AI Platform – Mix</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-
-        {/* VoxGen + Founder */}
-        <div className="col-md-6 mb-4">
-          {/* VoxGen Card */}
-          <div className="card shadow-sm mb-4">
-            <div className="card-body pb-0">
-              <h5 className="card-title">Voice UX Consultant</h5>
-              <h6 className="card-subtitle mb-3 text-muted">
-                VoxGen <span className="fw-normal">2015 – 2018</span>
-              </h6>
-              <p className="mb-2"><em>Client: Major US Retail Pharmacy</em></p>
-              <ul className="mb-0">
-                <li>Helped secure a $2 M contract by leading all VUI deliverables for the client</li>
-                <li>Recorded scripts, translated prompts, and ran usability tests</li>
-                <li className="mb-0">Moderated Wizard of Oz testing and managed persona development</li>
-              </ul>
-            </div>
-          </div>
-          {/* Founder Card */}
-          <div className="card shadow-sm">
-            <div className="card-body">
-              <h5 className="card-title">Founder</h5>
-              <h6 className="card-subtitle mb-3 text-muted">
-                CGRNet (Computer Games’ Reviews Network) <span className="fw-normal">2000 – 2004</span>
-              </h6>
-              <ul className="mb-0">
-                <li>Created a game review platform with a growing user base using CodeIgniter (PHP Framework)</li>
-                <li>Gained early traction with over 1000+ games listed (pre‑YouTube era)</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
   );
 }
