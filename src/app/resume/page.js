@@ -96,7 +96,7 @@ export default function Resume() {
 
         {/* VoxGen */}
         <div className="col-md-6 mb-4">
-          <div className="card shadow-sm h-100">
+          <div className="card shadow-sm"> {/* No h-100 here */}
             <div className="card-body">
               <h5 className="card-title">Voice UX Consultant</h5>
               <h6 className="card-subtitle mb-3 text-muted">
