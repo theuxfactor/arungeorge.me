@@ -94,11 +94,10 @@ export default function Resume() {
           </div>
         </div>
 
-        {/* VoxGen + Founder */}
+        {/* VoxGen */}
         <div className="col-md-6 mb-4">
-          {/* VoxGen Card */}
-          <div className="card shadow-sm mb-4 h-100">
-            <div className="card-body pb-0">
+          <div className="card shadow-sm h-100">
+            <div className="card-body">
               <h5 className="card-title">Voice UX Consultant</h5>
               <h6 className="card-subtitle mb-3 text-muted">
                 VoxGen <span className="fw-normal">June 2015 – March 2018 | Remote</span>
@@ -111,8 +110,10 @@ export default function Resume() {
               </ul>
             </div>
           </div>
+        </div>
 
-          {/* Founder Card */}
+        {/* Founder */}
+        <div className="col-md-6 mb-4">
           <div className="card shadow-sm h-100">
             <div className="card-body">
               <h5 className="card-title">Founder</h5>
